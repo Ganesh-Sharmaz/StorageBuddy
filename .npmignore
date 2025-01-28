@@ -4,6 +4,7 @@ jest.config.js
 tsconfig.json
 .gitignore
 .npmignore
-dist/node_modules/
+node_modules/
+storagebuddy/node_modules/
 *.log
 .tgz
