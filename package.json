@@ -38,5 +38,7 @@
   "dependencies": {
     "storagebuddy": "file:"
   },
-  "files": []
+  "files": [
+    "dist"
+  ]
 }
