@@ -101,5 +101,31 @@ const user = stash.get<string>("local", "username");
 console.log(user); // Outputs: Ganesh Sharma
 ```
 
+## 📌 Points to Remember
+- Changed module from **CommonJS** to **ESNext** for better compatibility with React.
+- Target set to **ES2016** instead of ES6 for modern JavaScript features.
+- Optimized code by replacing `if-else` blocks with `switch-case` to improve readability and performance.
+- Handles **QuotaExceededError** in `localStorage` to prevent crashes.
+- **Red Hat Dependency Analytics** was the cause of recursive `node_modules` installations, now removed.
+
+## 🛠 How to Install the Project
+
+1. Initialize the project:
+   ```sh
+   npm init -y
+   ```
+2. Install TypeScript:
+   ```sh
+   npm i typescript --save-dev
+   ```
+3. Initialize TypeScript configuration:
+   ```sh
+   npm --init
+   ```
+4. Compile TypeScript:
+   ```sh
+   npx tsc
+   ```
+
 This file is for **internal tracking only**. If I revisit this project after months, this document will remind me exactly how everything works! 😎
 
