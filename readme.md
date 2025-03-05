@@ -7,3 +7,6 @@ npm init -y
 npm i typescript --save-dev
 npm --init
 npx tsc
+
+
+the "Red Hat Dependency Analytics" was the main cause of the recursive installations of the node_modules in the library
