@@ -1,6 +1,6 @@
 {
   "name": "storagebuddy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight TypeScript library for LocalStorage, SessionStorage, and Cookies.",
   "main": "dist/stash.js",
   "types": "dist/stash.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ganesh-Sharmaz/StorageBuddy.git"
+    "url": "git+https://github.com/Ganesh-Sharmaz/StorageBuddy.git"
   },
   "keywords": [
     "storage",
