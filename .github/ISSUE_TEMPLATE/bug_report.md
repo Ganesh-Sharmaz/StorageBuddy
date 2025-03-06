@@ -1,38 +1,38 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: 🐞 Bug Report
+about: Report a bug to help us improve the project
+title: "[Bug]: <Short description>"
+labels: bug, needs-triage
 assignees: ''
+---
+
+## 🐛 Bug Description
+A clear and concise description of the bug.
+
+## 🔍 Steps to Reproduce
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '...'
+3. Scroll down to '...'
+4. See error
+
+## 🖥️ Expected Behavior
+A clear and concise description of what should have happened.
+
+## 📸 Screenshots / Logs
+If applicable, add screenshots or logs to help explain the issue.
+
+## 🏗️ Environment Details
+- **OS:** (Windows/Linux/macOS)
+- **Browser & Version:** (Chrome 99, Firefox 100, Edge 120, etc.)
+- **Node.js Version:** (Run `node -v`)
+- **Package Version:** (`npm list stash-library`)
+- **Additional Context:** (Any other details)
+
+## 🛠️ Possible Solution
+(Optional) If you have an idea of how to fix this, please share.
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**📌 Additional Notes:**  
+If this is a security-related issue, please report it via email instead of opening an issue.  
