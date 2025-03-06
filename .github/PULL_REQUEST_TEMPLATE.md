@@ -36,3 +36,10 @@ assignees: ''
 Fixes #<issue_number>
 
 ## ⚠️ Important Notes
+1. I have self-reviewed my code.
+2. I have written necessary tests for my changes.
+3. My changes follow the coding standards and best practices.
+4. I have checked for security vulnerabilities.
+
+## 🛠️ Additional Context
+<!-- Any extra details that reviewers should know about. -->
