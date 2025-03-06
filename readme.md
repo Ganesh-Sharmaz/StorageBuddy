@@ -4,7 +4,7 @@
 
 
 
-StorageBuddy is a lightweight, **zero-dependency** JavaScript library that provides a **unified API** for handling `localStorage`, `sessionStorage`, and cookies effortlessly.
+StorageBuddy is a lightweight, **zero-dependency** TypeScript library that provides a **unified API** for handling `localStorage`, `sessionStorage`, and `cookies` effortlessly.
 
 🔹 **Cleaner & More Readable Code**\
 🔹 **Automatic JSON Handling**\
@@ -89,7 +89,13 @@ stash.clear("cookie"); // Clears all cookies
 
 ## 🏗️ Future Enhancements
 
--
+**Encryption Support** - Add optional encryption for sensitive data.
+
+**Storage Event Listeners** - Support for listening to storage changes across tabs.
+
+**Custom Expiration Units** - Allow expiration in hours, minutes, or seconds for cookies.
+
+**TypeScript Improvements** - Enhance type inference and add more utility types.
 
 ## 📜 License
 
