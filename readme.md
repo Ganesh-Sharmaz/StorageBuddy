@@ -347,11 +347,11 @@ StorageBuddy is [MIT licensed](LICENSE).
 ## 💬 Community & Support
 
 - **GitHub Issues**: Report bugs or request features
-- **Twitter**: Follow [@GaneshSharma](https://twitter.com/username) for updates
+- **Twitter**: Follow [@GaneshSharma](https://x.com/Ganesh_Sharmazz) for updates
 - **Discord**: Join our [community channel](https://discord.gg/channel)
 
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/username">Ganesh Sharma</a>
+  Built with ❤️ by <a href="https://github.com/Ganesh_Sharmaz">Ganesh Sharma</a>
 </p>
